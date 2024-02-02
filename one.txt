@@ -1,0 +1,26 @@
+Conditional Statements:- Conditional statements used for adding conditions to the statements.
+Conditional statements contains if part and else part its not necessary to add else part it will be used based upon on the situations. these statements used for executing the different blocks in the statements.If block will be execute when condition is true otherwise else block will be run.
+Syntax of Conditional statements:
+if (condition){
+    //code
+}
+else {
+    //code
+}
+Examples of Conditional statements:
+//first example
+ let age=15
+ if(age>=18){
+    console.log("you are eligible for driving")
+ }
+  else{
+    console.log("you are not eligible for driving")
+ }
+ // second example
+ let x=15
+ if (x>0){
+        console.log(" x is positive")
+}
+else{
+        console.log("x is negative")
+}

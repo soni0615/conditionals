@@ -1,0 +1,28 @@
+Loops:-loops are used for run the repitative tasks at a time it executes infinite number of tasks.Loops make the code more precise and concise it controls the efficiency of the code.It controls the repitation number of iterations will be controlled by loops.There are some loops which will be used in programming for loop,while loop, do-while loop...
+//Need of loops 
+Loops play an important role in programming without loops we are not able to run the tasks on repitation it makes the code efficient it allows the flexibility for code.
+// for loop usage and syntax:
+//usage
+for loop is used for repitation the tasks it is used when we want to declare something and it also helps for writing the code how many times we have to run the code.
+//syntax
+ for(declaration;condition;changer/updation){
+    //code
+}
+// while loop usage and syntax:
+//usage
+while loop is run until the condition will get false it will be executed based upon on the number of iterations.
+//syntax
+declaration
+ while(condition){
+    changer/updation;
+    //code
+}
+// do while loop usage and syntax:
+do while loop is similar to while loop but a major difference between them do while loop atleast executed once doesnt matter condition is true or false it will executed atleast once.
+//syntax
+declaration
+ do{
+    //code
+    changer/updation;
+}
+while(condition)
